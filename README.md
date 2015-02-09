@@ -1,5 +1,5 @@
 # 3DText
-3DText is a very simple text viewer for the Nintendo 3DS.
+3DText is a very simple text viewer for the Nintendo 3DS. It is written by DarkFlare and built with ctrulib by smea.
 
 # Download:
 Latest version: http://www.mediafire.com/download/16jbuaxboqodf44/3DText.zip
